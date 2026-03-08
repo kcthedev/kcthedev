@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00E0E0&width=435&lines=🤖+Android+Developer;🍎+iOS+Developer;Freelancer+@TopTal!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-💻 I love to build Android and iOS apps with **Kotlin** & **Swift**!
-🛠️ Special focus on on user experience, performance, and clean architecture
-🧠 Always learning new languages and technologies
-🤝 Need an app? Reach out to me through TopTal!
+💻 I love to build Android and iOS apps with **Kotlin** & **Swift**!<br>
+🛠️ Special focus on on user experience, performance, and clean architecture<br>
+🧠 Always learning new languages and technologies<br>
+🤝 Need an app? Reach out to me through TopTal!<br>
 
 ## 👨‍💻 My Favorite Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)

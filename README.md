@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi! I'm KC, your friendly Mobile developer!
 
-<!--
-**kcthedev/kcthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">&nbsp;</p>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00E0E0&width=435&lines=🤖+Android+Developer;🍎+iOS+Developer;Freelancer+@TopTal!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 I love to build Android and iOS apps with **Kotlin** & **Swift**!
+🛠️ Special focus on on user experience, performance, and clean architecture
+🧠 Always learning new languages and technologies
+🤝 Need an app? Reach out to me through TopTal!
+
+## 👨‍💻 My Favorite Stack
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=kcthedev&show_icons=true&theme=radical&hide=prs,contribs&include_all_commits=true&count_private=true)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kc-thomas/)

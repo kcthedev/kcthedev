@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.toptal.com/developers/resume/kc-thomas#gzpQJW">
-    <img src="assets/toptal-badge.svg" alt="Toptal Top 3% Talent — Hire me" width="170" />
+    <img src="https://i.postimg.cc/G24gsBQb/toptal-badge.png" alt="Toptal Top 3% Talent — Hire me" width="170" />
   </a>
 </p>
 
